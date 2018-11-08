@@ -4,16 +4,19 @@ class DogDog < ActiveRecord::Base
   def self.save
   end
   
-  def 
+  def self.create
+    
   end
   
- def 
+ def self.update
   end
   
-  def 
+  def self.find_or create_by
   end
    
-   
+   def 
+     self.find_by_name
+  end
   
   
   
