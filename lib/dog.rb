@@ -1,10 +1,7 @@
 class DogDog < ActiveRecord::Base
   
   
-  def 
-  end
-  
-  def 
+  def self.save
   end
   
   def 
@@ -13,8 +10,10 @@ class DogDog < ActiveRecord::Base
  def 
   end
   
-  
-  
+  def 
+  end
+   
+   
   
   
   
