@@ -1,4 +1,4 @@
-class DogDog < ActiveRecord::Base
+class Dog < ActiveRecord::Base
   
   
   def self.save
