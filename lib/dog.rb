@@ -18,7 +18,9 @@ class DogDog < ActiveRecord::Base
      self.find_by_name
   end
   
-  
+  def self.find_by_id
+    
+  end
   
   
 end
